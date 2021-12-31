@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 - 🌱 : game development, real-time rendering methodology & programming
 - 🏃 : 달빛조각사 in XLGames, game programming, graphics api programming	
-- 🎯 : structural things, philosophy of mind, build my [archetypes](https://en.wikipedia.org/wiki/Jungian_archetypes)
+- 🎯 : structural things, philosophy of mind, chase my [archetypes](https://en.wikipedia.org/wiki/Jungian_archetypes)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=suhyeokkim)](https://github.com/suhyeokkim/github-readme-stats)
