@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 : game development, real-time rendering methodology & programming
-- 🏃 : running in 달빛조각사 Team of XLGames : unity, csharp, elixir	
+- 🏃 : running in 달빛조각사 Team of XLGames (unity, csharp, elixir)
     - 🌴 : directx11/12 pratice, [Crash](https://github.com/orgs/KG-Crash/teams/kg)
 - 🎯 : structural things, philosophy of mind, chase my [archetypes](https://en.wikipedia.org/wiki/Jungian_archetypes)
 
